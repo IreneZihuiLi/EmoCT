@@ -1,8 +1,7 @@
 ## EmoCT Dataset
 This is the repo for the EmoCT (Emotion-Covid19-Tweet) Dataset.
 
-
-We provide two versions: single-tag and multi-tag.
+We provide two versions: single-tag and multi-tag. Each folder contains 800 samples for training and 200 for testing.
 
 ### Emotion and its tag code used: 
 
